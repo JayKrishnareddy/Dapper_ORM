@@ -1,6 +1,6 @@
 ## Using Dapper In ASP.NET Core Web API and integrated with SQL Server Database
 
-# prerequisites
+### prerequisites
 - How does Dapper Work?
 - Configure Dapper
 - Dapper Performance
